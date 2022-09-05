@@ -52,7 +52,8 @@ const rps = (p1, p2) => {
 - [x] 2016-2020 Bauman Moscow State Technical University / Engineering Business and Management
 - [x] HTML and Visual Basic courses in University 
 - [x] Web development intensive - [GeekBrains, certificate](https://gb.ru/certificates/914818.en#)
-- [ ] RS Schools Course «JavaScript/Front-end. Stage 1» (in process)
+- [x] RS School «JavaScript/Front-end. Stage 0» (self education)
+- [ ] RS School «JavaScript/Front-end. Stage 1» (in process)
 
 ### **Languages**
 
