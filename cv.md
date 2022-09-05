@@ -13,9 +13,9 @@
 ### **About Me**
 
 I'm responsible and hard-working. In the second year of university I started working. I worked in Sales for 4 years in different companies and positions. Mostly, it was for money and in the end, for expirience. It wasn't something that I like. At my last job I realized that I didn't see myself in this field in future and I started looking for new opportunities.
-----
+
 After some research, I find frontend development and it seemed atrractive for me. I had some experience in University with programming and it was interesting but I treated it as a short-term course.
-----
+
 For now, I study frontend about 7 months. And I feel that this is what I wanna do in the future. I love to challenge myself, find new information, try new technologies.
 
 I believe, that my passion to learn new things will help me to gain needed skills and i become **good qualified Frontend Developer**.
