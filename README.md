@@ -1,1 +1,1 @@
-# https://vrNKg.github.io/rsschool-cv/cv
+# https://vrNKg.github.io/rsschool-cv/
